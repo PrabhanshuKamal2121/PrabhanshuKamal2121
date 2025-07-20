@@ -9,8 +9,6 @@
 
 ---
 
-## 🧠 Currently Skilled In
-
 ## 🧠 Technical Skills
 
 ### 👨‍💻 Programming & Development
@@ -24,7 +22,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![n8n](https://img.shields.io/badge/n8n-FF6D70?style=for-the-badge&logo=n8n&logoColor=white)
 
----
 
 ### 📊 Data Science & Machine Learning
 
@@ -36,7 +33,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
 ![Cufflinks](https://img.shields.io/badge/Cufflinks-0277BD?style=for-the-badge)
 
----
 
 ### 📡 Engineering & Research
 
@@ -84,7 +80,7 @@
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: [linkedin.com/in/PrabhanshuK](https://www.linkedin.com/in/PrabhanshuK)
-- 📧 Email: [your-email@example.com] <!-- Replace this with your actual email -->
+- 📧 Email: [prabhanshukama2121@gmail.com] <!-- Replace this with your actual email -->
 
 ---
 
