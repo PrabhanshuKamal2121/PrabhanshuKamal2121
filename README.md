@@ -9,18 +9,6 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 I'm an aspiring developer and researcher diving deep into the world of **machine learning**, **data science**, and **engineering**.
-
-💡 I recently completed an 8-week internship at **NSUT Delhi**, where I worked on **2.4 GHz dielectric resonator antennas** for drone communication — including simulation and prototyping using **CST Microwave Studio**.
-
-📊 I have hands-on experience with **Python**, **ML algorithms**, and **data visualization**, and I’ve started learning **Git** and version control for better development workflow.
-
-🛠️ I’m steadily expanding my skillset and love working on projects that combine **code, data, and creativity**.
-
----
-
 ## 🧠 Currently Skilled In
 
 ### 🔣 Programming & Web
@@ -43,6 +31,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
+
+## 🚀 About Me
+
+🎓 I'm an aspiring developer and researcher diving deep into the world of **machine learning**, **data science**, and **engineering**.
+
+💡 I recently completed an 8-week internship at **NSUT Delhi**, where I worked on **2.4 GHz dielectric resonator antennas** for drone communication — including simulation and prototyping using **CST Microwave Studio**.
+
+📊 I have hands-on experience with **Python**, **ML algorithms**, and **data visualization**, and I’ve started learning **Git** and version control for better development workflow.
+
+🛠️ I’m steadily expanding my skillset and love working on projects that combine **code, data, and creativity**.
 
 ---
 
