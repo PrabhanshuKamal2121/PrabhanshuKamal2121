@@ -1,13 +1,5 @@
-<h1 align="center">👋 Hi, I'm Prabhanshu Kamal</h1>
-<p align="center">
-  <b>AI Learner • Developer • Research Intern</b>
-</p>
-<p align="center">
-  <a href="https://github.com/PrabhanshuKamal2121"><img src="https://img.shields.io/github/followers/PrabhanshuKamal2121?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/PrabhanshuK/"><img src="https://img.shields.io/badge/LinkedIn-PrabhanshuK-blue?logo=linkedin" alt="LinkedIn"></a>
-</p>
+![image alt](https://github.com/PrabhanshuKamal2121/PrabhanshuKamal2121/blob/5fb6bdd9b94200dd6ae237599c526e699d4e5eaf/MainBanner.png)
 
----
 
 ## 🧠 Technical Skills
 
