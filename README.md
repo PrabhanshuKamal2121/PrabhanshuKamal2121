@@ -67,16 +67,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhanshuKamal2121&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhanshuKamal2121&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: [linkedin.com/in/PrabhanshuK](https://www.linkedin.com/in/PrabhanshuK)
